@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Suhatasmiya/DSA/tree/master/0054-spiral-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/Suhatasmiya/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Suhatasmiya/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Suhatasmiya/DSA/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/Suhatasmiya/DSA/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/Suhatasmiya/DSA/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
