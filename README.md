@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Suhatasmiya/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Suhatasmiya/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Suhatasmiya/DSA/tree/master/0054-spiral-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suhatasmiya/DSA/tree/master/1019-squares-of-a-sorted-array) |
@@ -83,4 +84,12 @@
 | [0101-symmetric-tree](https://github.com/Suhatasmiya/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Suhatasmiya/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Suhatasmiya/DSA/tree/master/0226-invert-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Suhatasmiya/DSA/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Suhatasmiya/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
