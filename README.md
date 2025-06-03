@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Suhatasmiya/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Suhatasmiya/DSA/tree/master/0054-spiral-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suhatasmiya/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Suhatasmiya/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -14,6 +15,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Suhatasmiya/DSA/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Suhatasmiya/DSA/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Suhatasmiya/DSA/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
@@ -28,6 +30,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Suhatasmiya/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Suhatasmiya/DSA/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
