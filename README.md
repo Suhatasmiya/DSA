@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Suhatasmiya/DSA/tree/master/0045-jump-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Suhatasmiya/DSA/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
