@@ -40,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Suhatasmiya/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Suhatasmiya/DSA/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Suhatasmiya/DSA/tree/master/0328-odd-even-linked-list) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Suhatasmiya/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
